@@ -1,0 +1,44 @@
+.titulo {
+  color: hotpink;
+  width: 310px;
+  height: 50px;
+  background-color: teal;
+}
+
+#seleccionar-mascota {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hipidoge {
+  width: 5rem;
+  display: flex;
+  justify-items: center;
+}
+
+.capipepo {
+  width: 5rem;
+  display: flex;
+  justify-items: center;
+}
+
+.ratigueya {
+  width: 5rem;
+  display: flex;
+  justify-items: center;
+}
+.tarjeta-de-mokepon {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 10px;
+  border: 1px hotpink;
+}
+
+input {
+  display: none;
+}
